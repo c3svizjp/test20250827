@@ -1,0 +1,20 @@
+{
+  "name": "test20250827",
+  "version": "1.0.0",
+  "description": "TEST\r TEST",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/c3svizjp/test20250827.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/c3svizjp/test20250827/issues"
+  },
+  "homepage": "https://github.com/c3svizjp/test20250827#readme"
+}
