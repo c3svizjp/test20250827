@@ -1,7 +1,7 @@
 {
-  "name": "test20250827",
+  "name": "ponpon",
   "version": "1.0.0",
-  "description": "TEST\r TEST",
+  "description": "TESTTEST",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
