@@ -1,0 +1,11 @@
+{
+  "name": "ponpon",
+  "version": "1.0.0",
+  "description": "TEST",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
